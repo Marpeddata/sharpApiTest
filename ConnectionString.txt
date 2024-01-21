@@ -1,0 +1,4 @@
+https://youtu.be/EmV_IBYIlyo?list=PL82C6-O4XrHdiS10BLh23x71ve9mQCln0&t=259
+
+//CONNECTION STRING///
+Data Source=DESKTOP-3HDGPED\SQLEXPRESS;Initial Catalog=pokemon;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False
