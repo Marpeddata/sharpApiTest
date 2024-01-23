@@ -9,6 +9,7 @@ namespace PokemonReviewApp.Controllers
     public class PokemonController : Controller
     {
 
+
         private readonly IPokemonRepository _pokemonRepository;
 
         public PokemonController(IPokemonRepository pokemonRepository)
@@ -26,6 +27,7 @@ namespace PokemonReviewApp.Controllers
             }
             return Ok(pokemons);
         }
+
     }
 
 }

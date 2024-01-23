@@ -134,3 +134,4 @@ C:\Users\sutsk\Dropbox\programming\C#\api\PokemonReviewApp\PokemonReviewApp\obj\
 C:\Users\sutsk\Dropbox\programming\C#\api\PokemonReviewApp\PokemonReviewApp\obj\Debug\net8.0\PokemonReviewApp.pdb
 C:\Users\sutsk\Dropbox\programming\C#\api\PokemonReviewApp\PokemonReviewApp\obj\Debug\net8.0\PokemonReviewApp.genruntimeconfig.cache
 C:\Users\sutsk\Dropbox\programming\C#\api\PokemonReviewApp\PokemonReviewApp\obj\Debug\net8.0\ref\PokemonReviewApp.dll
+C:\Users\sutsk\Dropbox\programming\C#\api\PokemonReviewApp\PokemonReviewApp\obj\Debug\net8.0\PokemonReviewApp.sourcelink.json

@@ -17,6 +17,8 @@ builder.Services.AddTransient<Seed>();
 //Lastly its being used in PokemonController.cs in Controllers folder.
 //Before its finally being added here as a service.
 builder.Services.AddScoped<IPokemonRepository, PokemonRepository>();
+builder.Services.AddScoped<TestContext>();
+builder.Services.AddScoped<ITest, TestRepository>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
